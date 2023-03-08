@@ -108,13 +108,13 @@ skills:
 
     toolset:
       - name: Java / Kotlin
-        level: 80%
+        level: 85%
 
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: C#
-        level: 70%
+        level: 65%
 
       - name: C++
         level: 60%
@@ -122,7 +122,7 @@ skills:
       - name: Javascript, TypeScript, HTML5 & CSS
         level: 50%
 
-      - name: RobotFrameWork/Selenium
+      - name: RobotFrameWork/ Selenium
         level: 50%
 
 footer: >
