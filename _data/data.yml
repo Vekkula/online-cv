@@ -17,7 +17,7 @@ sidebar:
     timezone: 
     citizenship:
     website:  #do not add http://
-    linkedin: https://www.linkedin.com/in/veli-jakkula-1a65b5160/
+    linkedin: veli-jakkula-1a65b5160/
     xing: 
     github: Vekkula
     telegram: # add your nickname without '@' sign
@@ -80,20 +80,20 @@ projects:
     assignments:
       - title: Polar Equine
         link: https://play.google.com/store/apps/details?id=fi.polar.equine
-        tagline: "An Android app, which uses Polar H10 sensors and polar-ble-sdk to monitor your horses health. "
+        tagline: "An Android app, which uses Polar H10 sensors and polar-ble-sdk to monitor your horses health. Made using Model-View-ViewModel design-pattern and RxJava2"
 
 oss:
     title: Github Projects
     intro: >
-        Here is some projects I've worked on from Github
+        Here is some personal and smaller projects I've worked on.
     contributions:
       - title: SDL_Test
         link: https://github.com/Vekkula/SDL_Test
-        tagline: "Particle Fire simulation using SDL2"
+        tagline: "Particle Fire simulation made with C++ and SDL2"
 
       - title: GoDot----Adventure-RPG-Game
         link: https://github.com/Jimboo96/GoDot-Adventure-RPG-Game
-        tagline: "An rpg we made at school"
+        tagline: "Isometric rpg we made with Godot"
 
       - title: InterviewReviewAPI
         link: https://github.com/Vekkula/InterviewReviewAPI
@@ -102,6 +102,10 @@ oss:
       - title: CountryService
         link: https://github.com/Vekkula/CountryService
         tagline: "REST-api made with Spring Boot"
+
+      - title: Online-cv
+        link: https://github.com/Vekkula/online-cv
+        tagline: "This CV"
 
 skills:
     title: Skills &amp; Proficiency
@@ -122,8 +126,13 @@ skills:
       - name: Javascript, TypeScript, HTML5 & CSS
         level: 50%
 
-      - name: RobotFrameWork/ Selenium
+      - name: RobotFrameWork / Selenium
         level: 50%
+
+buzzwords:
+    title: Buzzwords 
+    intro: Here's some skills that might be somewhat revelant, listed in no particular order.
+    summary: Android Development, Model-View-ViewModel, Reactive programming, Scrum, Agile, Unit testing, Git, Linux, Debian, PhpMyAdmin, Microsoft Office / Libreoffice, XML, JSON, Godot Engine, Unity, Game Development, Raspberry Pi, Qt
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
